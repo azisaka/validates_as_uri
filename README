@@ -1,0 +1,12 @@
+ValidatesAsUri
+==============
+
+Examples
+=======
+
+Assuming the database column name is 'uri':
+
+validates_as_uri :uri
+
+
+Copyright (c) 2008 [Chris Mowforth], released under the MIT license
